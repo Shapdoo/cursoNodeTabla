@@ -9,5 +9,4 @@ Opciones disponibles
   -l, --listar        Muestra el contenido del archivo de texto.
                                                       [boolean] [default: false]
       --li, --limite  Limita las multiplicaciones.        [number] [default: 10
-
 ```
